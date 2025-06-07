@@ -16,3 +16,5 @@ Work stuff.
 Music stuff.
 
 Personal stuff.
+
+<a href="https://pfq.link/?JbS4PX"><img src="https://pfq.link/?JbS4PX=party.png" /></a>
