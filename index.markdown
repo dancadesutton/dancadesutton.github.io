@@ -7,7 +7,7 @@ title: Some stuff I've done
 permalink: /
 ---
 
-B.S. Computer Science
+# B.S. Computer Science
 University of Washington – Seattle, WA
 Expected Graduation: June 2025
 
