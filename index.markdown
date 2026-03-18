@@ -7,9 +7,10 @@ title:
 permalink: /
 ---
 
-# B.S. Computer Science
-## University of Washington – Seattle, WA
-### Expected Graduation: June 2025
+# Education
+Bachelor of Science, Computer Science
+
+University of Washington, Seattle, WA, June 2025
 
 Merchandiser | Costco Wholesale | April 2014 - August 2023
 Worked as a merchandiser, cashier, inventory assistant, and various other roles as needed in a fast-paced, high volume retail environment.
