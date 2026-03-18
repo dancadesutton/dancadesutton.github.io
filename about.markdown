@@ -52,4 +52,3 @@ Collaborated with classmates to create several interactive data visualizations t
 Created a versatile Gaming Assistant Discord Bot with a variety of functions, such as dice rolling and rules text search, that streamline playing a tabletop game on Discord.
 - Wrote R scripts that parse the rules text and create .csv files; designed and implemented a relational database using sqlite3; used Javascript with Node to write the bot itself.
 - Future improvements include game state tracking and generalizing some functions of the bot for use in a wider variety of games.
-- 
