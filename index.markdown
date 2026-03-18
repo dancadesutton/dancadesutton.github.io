@@ -8,8 +8,7 @@ permalink: /
 ---
 
 # Education
-Bachelor of Science, Computer Science
-
+Bachelor of Science, Computer Science  
 University of Washington, Seattle, WA, June 2025
 
 Merchandiser | Costco Wholesale | April 2014 - August 2023
